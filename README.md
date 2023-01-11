@@ -1,6 +1,6 @@
 # LOGIN REGISTER WITH ADMIN PANEL 
 <div>
-<div style:"float:left; max-width:10%; max-height:400px" ><img float=right src="https://user-images.githubusercontent.com/118901793/211683425-274b88ab-8d20-4a49-8852-897704e3d68f.jpg" width="200" height="400" />
+<div style:"float:left; max-width:10%; max-height:400px" ><img align="center" src="https://user-images.githubusercontent.com/118901793/211683425-274b88ab-8d20-4a49-8852-897704e3d68f.jpg" width="200" height="400" />
   <br>
 LOGIN PAGE 
 </div>
