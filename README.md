@@ -14,3 +14,10 @@
   </tr>
 </table>
 
+YOU MUST SET YOUR DB SETTINGS IN ayar.php 
+<img src="https://user-images.githubusercontent.com/118901793/211689772-d38bc46b-f3ad-4512-9080-b486c7ada305.png" width="200" height="400" />
+<br>
+ALSO YOU MUST SET YOUR URL IN login.cs,register.cs,admin.cs
+<img src="https://user-images.githubusercontent.com/118901793/211689952-ed780345-840c-4a83-bef4-770599419458.png" width="200" height="400" />
+
+
