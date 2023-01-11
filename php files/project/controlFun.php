@@ -1,5 +1,5 @@
 <?php
-require_once($_SERVER['DOCUMENT_ROOT'].'/hamle/sys/ayar.php');
+require_once($_SERVER['DOCUMENT_ROOT'].'/project/sys/ayar.php');
     
     function deger(){
         global $con;
