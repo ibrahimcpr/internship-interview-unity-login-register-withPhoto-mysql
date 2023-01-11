@@ -1,6 +1,6 @@
 <?php
-require_once($_SERVER['DOCUMENT_ROOT'].'/hamle/sys/ayar.php');
-require_once($_SERVER['DOCUMENT_ROOT'].'/hamle/sys/functions.php');
+require_once($_SERVER['DOCUMENT_ROOT'].'/project/sys/ayar.php');
+require_once($_SERVER['DOCUMENT_ROOT'].'/project/sys/functions.php');
 $request =["success" => false, "message" =>"","name"=>"","surname"=>"","id"=>"","image"=>"","age"=>"","status"=>""];
 if(isset($_GET['usr']) && isset($_GET['pwd'])){
     if($_GET['usr'] != '' && $_GET['pwd'] !=''){
