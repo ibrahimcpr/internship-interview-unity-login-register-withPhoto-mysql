@@ -20,4 +20,8 @@ YOU MUST SET YOUR DB SETTINGS IN ayar.php
 ALSO YOU MUST SET YOUR URL IN login.cs,register.cs,admin.cs
 <img src="https://user-images.githubusercontent.com/118901793/211689952-ed780345-840c-4a83-bef4-770599419458.png" />
 
+SELECT IMAGE FROM GALLERY AND CONVERT TO LONGTEXT
+<img src="https://user-images.githubusercontent.com/118901793/211690789-8ecfa129-b48c-4871-9bdf-a0238c6b0f89.png" />
+
+
 
