@@ -1,5 +1,5 @@
 <?php
-require_once($_SERVER['DOCUMENT_ROOT'].'/hamle/sys/ayar.php');
+require_once($_SERVER['DOCUMENT_ROOT'].'/project/sys/ayar.php');
 if ($_POST['unity']=="Register"){
     $username=$_POST['username'];
     $password=$_POST['password'];
