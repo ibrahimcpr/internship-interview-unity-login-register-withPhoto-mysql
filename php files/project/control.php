@@ -1,7 +1,7 @@
 <?php  
 
-require_once($_SERVER['DOCUMENT_ROOT'].'/hamle/sys/ayar.php');
-require_once($_SERVER['DOCUMENT_ROOT'].'/hamle/controlFun.php');
+require_once($_SERVER['DOCUMENT_ROOT'].'/project/sys/ayar.php');
+require_once($_SERVER['DOCUMENT_ROOT'].'/project/controlFun.php');
 
     $islem = deger();
 
